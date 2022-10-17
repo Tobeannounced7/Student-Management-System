@@ -1,0 +1,17 @@
+package DAOS;
+
+/**
+* 
+*IDisplayable is the interface created with the display() method.
+*/
+
+
+public interface IDisplayable {
+
+/**
+*The method display() is implemented in the IDispayableImp.
+*/
+    public void display();
+    
+
+}
